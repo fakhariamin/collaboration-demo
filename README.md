@@ -7,4 +7,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Create a branch
 - Submit a pull request
 
-## This line added in another branch
+##Final Project
+In this tutorial we try to learn about git by Jadi.
+Jadi has many great courses like AI with python, Python, LPIC-1 and also this course, Git.
